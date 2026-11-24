@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ride-Sharing Demand & Revenue Intelligence  
 ### NYC Yellow Taxi Data (Jan 2025)
 <img width="1536" height="846" alt="NYC Taxi" src="https://github.com/user-attachments/assets/0cefcacb-bd43-4e1a-a71f-3c6373ec164a" />
@@ -159,3 +160,6 @@ Requirements/ → Project Requirements
 ## 💡 Key Takeaway
 
 This project demonstrates an end-to-end data science workflow — from raw data processing to business strategy simulation — combining analytics, modeling, and visualization to drive revenue-focused insights.
+=======
+# ride-sharing-demand-intelligence
+>>>>>>> bfc20da2e070ee8a2fe0aab6415a4424d9810637
